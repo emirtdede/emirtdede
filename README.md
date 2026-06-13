@@ -88,11 +88,12 @@ Experienced in developing microservice-based middleware solutions, database conn
 
 ## 🚀 Key Projects
 
-*   **🩺 [EEG/EMG DICOM Integration Microservice](https://github.com/emirtdede?tab=repositories)**: Python-based integration middleware that transforms EEG and EMG device raw output reports into standard DICOM files for PACS/HIS archiving.
-*   **🛍️ [Perde Dünyası](https://github.com/emirtdede?tab=repositories)**: A modern Next.js (App Router) & Supabase-based e-commerce platform featuring active WhatsApp ordering and visitor analytics.
-*   **🚨 [Social Crisis Simulation Platform](https://github.com/emirtdede?tab=repositories)**: Funded by TÜBİTAK 2209-A. An interactive mobile simulation platform designed to optimize crisis decision-making.
-*   **🔌 [Power Pilot](https://github.com/emirtdede?tab=repositories)**: Lightweight Electron-based tool to schedule power management modes on local devices.
-*   **📱 [Notitia News App](https://github.com/emirtdede?tab=repositories)**: Mobile application powered by React Native and Firebase real-time database.
+*   **🚨 [Social Crisis Simulation Platform (TKSP)](https://github.com/emirtdede/Social-Crisis-Simulation-Platform)**: An interactive, mobile-based, machine learning-supported simulation application developed as a Graduation Thesis for Osmaniye Korkut Ata University. Features disaster, pandemic, war scenarios, and custom ML-driven decision-making tools.
+*   **📘 [Elektronik Yevmiye Defteri](https://github.com/emirtdede/Elektronik-Yevmiye-Defteri)**: Autonomous, offline-first corporate desktop application designed to digitize worker timesheets, progress payments (hak ediş), advances, and cash register balances without relying on external APIs.
+*   **🚑 [Medipro Nihon Kohden AED-Site](https://github.com/emirtdede/Medipro-NihonKohden-AED-Site)**: Full-stack web application developed for Turkey's distributor Medipro, featuring the Nihon Kohden Cardiolife AED-3100 showcase site, content management system (CMS), and advanced visitor analytics dashboard.
+*   **🛍️ [Perde Dünyası](https://github.com/emirtdede/Perde-Dunyasi)**: A modern, highly-responsive, and full-stack web application designed for a curtain and blinds store, backed by a secure admin panel for complete content management.
+*   **🤖 [ML Pipeline for Text Classification](https://github.com/emirtdede/ML-Pipeline-TextClassification)**: End-to-end Machine Learning pipeline built in Python to train, tune, and evaluate multiple classification models using TF-IDF vectorization and Scikit-Learn's Grid Search CV.
+*   **🖥️ [Basic Operating System](https://github.com/emirtdede/Basic-Operating-System)**: A simple 16-bit real-mode operating system project written in Assembly, consisting of a custom bootloader and a command-line interface kernel module.
 
 ---
 
@@ -107,7 +108,7 @@ Experienced in developing microservice-based middleware solutions, database conn
 
 ## 📫 Let's Connect!
 
-*   **Website**: [emirtdede.com](https://emirtdede.com)
+*   **Website**: [emirtdede.com](https://emirtdede.vercel.app/)
 *   **LinkedIn**: [linkedin.com/in/emirtdede](https://linkedin.com/in/emirtdede)
 *   **Email**: [emirtdede@gmail.com](mailto:emirtdede@gmail.com)
 *   **Figma**: [figma.com/@emirtdede](https://figma.com/@emirtdede)
@@ -192,11 +193,12 @@ Mikroservis tabanlı ara yazılım (middleware) çözümleri geliştirme, verita
 
 ## 🚀 Öne Çıkan Projeler
 
-*   **🩺 [EEG/EMG DICOM Entegrasyon Mikroservisi](https://github.com/emirtdede?tab=repositories)**: EEG ve EMG cihazlarının ham rapor çıktılarını PACS/HBYS arşivlemesi için standart DICOM dosyalarına dönüştüren Python tabanlı ara yazılım.
-*   **🛍️ [Perde Dünyası](https://github.com/emirtdede?tab=repositories)**: WhatsApp sipariş entegrasyonu ve ziyaretçi analiz modüllerine sahip, modern Next.js (App Router) ve Supabase tabanlı e-ticaret platformu.
-*   **🚨 [Toplumsal Kriz Simülasyon Platformu](https://github.com/emirtdede?tab=repositories)**: TÜBİTAK 2209-A tarafından fonlanan, kriz anında doğru karar almayı geliştirmeyi amaçlayan etkileşimli mobil simülasyon platformu.
-*   **🔌 [Power Pilot](https://github.com/emirtdede?tab=repositories)**: Yerel cihazlarda güç yönetimi modlarını zamanlamayı sağlayan hafif Electron tabanlı masaüstü aracı.
-*   **📱 [Notitia Haber Uygulaması](https://github.com/emirtdede?tab=repositories)**: React Native ve Firebase gerçek zamanlı veritabanı ile desteklenen mobil haber uygulaması.
+*   **🚨 [Toplumsal Kriz Simülasyon Platformu (TKSP)](https://github.com/emirtdede/Social-Crisis-Simulation-Platform)**: Osmaniye Korkut Ata Üniversitesi Bilgisayar Mühendisliği Bölümü için Mezuniyet Tezi olarak geliştirilmiş; afet, pandemi, savaş senaryoları ve makine öğrenmesi destekli karar alma araçları içeren etkileşimli mobil simülasyon uygulaması.
+*   **📘 [Elektronik Yevmiye Defteri](https://github.com/emirtdede/Elektronik-Yevmiye-Defteri)**: İşçi puantaj, hak ediş, avans ve kasa yönetimini dijitalleştiren otonom ve yerel (offline) çalışan, harici API'lere ihtiyaç duymayan kurumsal masaüstü uygulaması.
+*   **🚑 [Medipro Nihon Kohden AED-Site](https://github.com/emirtdede/Medipro-NihonKohden-AED-Site)**: Türkiye distribütörü Medipro için geliştirilen, Nihon Kohden Cardiolife AED-3100 tanıtım sitesi, içerik yönetim sistemi (CMS) ve gelişmiş ziyaretçi analiz panelini barındıran full-stack web uygulaması.
+*   **🛍️ [Perde Dünyası](https://github.com/emirtdede/Perde-Dunyasi)**: Perde ve jaluzi mağazası için geliştirilen, güvenli yönetim paneli (CMS) ve ürün vitrinlerine sahip, modern ve yüksek performanslı e-ticaret platformu.
+*   **🤖 [ML Pipeline for Text Classification](https://github.com/emirtdede/ML-Pipeline-TextClassification)**: Python'da TF-IDF ve Scikit-Learn Grid Search CV kullanarak metin sınıflandırma modellerini eğiten, ayarlayan ve test eden makine öğrenmesi boru hattı.
+*   **🖥️ [Basic Operating System](https://github.com/emirtdede/Basic-Operating-System)**: Assembly diliyle yazılmış, önyükleyici (bootloader) ve komut satırı arayüzü çekirdek modüllerinden oluşan 16-bit real-mode basit işletim sistemi.
 
 ---
 
@@ -211,7 +213,7 @@ Mikroservis tabanlı ara yazılım (middleware) çözümleri geliştirme, verita
 
 ## 📫 İletişime Geçin!
 
-*   **Web Sitesi**: [emirtdede.com](https://emirtdede.com)
+*   **Web Sitesi**: [emirtdede.com](https://emirtdede.vercel.app/)
 *   **LinkedIn**: [linkedin.com/in/emirtdede](https://linkedin.com/in/emirtdede)
 *   **E-posta**: [emirtdede@gmail.com](mailto:emirtdede@gmail.com)
 *   **Figma**: [figma.com/@emirtdede](https://figma.com/@emirtdede)
@@ -219,3 +221,4 @@ Mikroservis tabanlı ara yazılım (middleware) çözümleri geliştirme, verita
 ---
 
 *Tasarlayan ve Geliştiren: 💻 ve ☕ ile [Emir Dede](https://github.com/emirtdede).*
+
