@@ -89,7 +89,7 @@ Experienced in developing microservice-based middleware solutions, database conn
 ## 🚀 Key Projects
 
 *   **🚨 [Social Crisis Simulation Platform (TKSP)](https://github.com/emirtdede/Social-Crisis-Simulation-Platform)**: An interactive, mobile-based, machine learning-supported simulation application developed as a Graduation Thesis for Osmaniye Korkut Ata University. Features disaster, pandemic, war scenarios, and custom ML-driven decision-making tools.
-*   **📘 [Elektronik Yevmiye Defteri](https://github.com/emirtdede/Elektronik-Yevmiye-Defteri)**: Autonomous, offline-first corporate desktop application designed to digitize worker timesheets, progress payments (hak ediş), advances, and cash register balances without relying on external APIs.
+*   **📘 [Tecton](https://github.com/emirtdede)**: Autonomous, offline-first corporate desktop application designed to digitize worker timesheets, progress payments (hak ediş), advances, and cash register balances without relying on external APIs.
 *   **🚑 [Medipro Nihon Kohden AED-Site](https://github.com/emirtdede/Medipro-NihonKohden-AED-Site)**: Full-stack web application developed for Turkey's distributor Medipro, featuring the Nihon Kohden Cardiolife AED-3100 showcase site, content management system (CMS), and advanced visitor analytics dashboard.
 *   **🛍️ [Perde Dünyası](https://github.com/emirtdede/Perde-Dunyasi)**: A modern, highly-responsive, and full-stack web application designed for a curtain and blinds store, backed by a secure admin panel for complete content management.
 *   **🤖 [ML Pipeline for Text Classification](https://github.com/emirtdede/ML-Pipeline-TextClassification)**: End-to-end Machine Learning pipeline built in Python to train, tune, and evaluate multiple classification models using TF-IDF vectorization and Scikit-Learn's Grid Search CV.
@@ -194,7 +194,7 @@ Mikroservis tabanlı ara yazılım (middleware) çözümleri geliştirme, verita
 ## 🚀 Öne Çıkan Projeler
 
 *   **🚨 [Toplumsal Kriz Simülasyon Platformu (TKSP)](https://github.com/emirtdede/Social-Crisis-Simulation-Platform)**: Osmaniye Korkut Ata Üniversitesi Bilgisayar Mühendisliği Bölümü için Mezuniyet Tezi olarak geliştirilmiş; afet, pandemi, savaş senaryoları ve makine öğrenmesi destekli karar alma araçları içeren etkileşimli mobil simülasyon uygulaması.
-*   **📘 [Elektronik Yevmiye Defteri](https://github.com/emirtdede/Elektronik-Yevmiye-Defteri)**: İşçi puantaj, hak ediş, avans ve kasa yönetimini dijitalleştiren otonom ve yerel (offline) çalışan, harici API'lere ihtiyaç duymayan kurumsal masaüstü uygulaması.
+*   **📘 [Tecton](https://github.com/emirtdede)**: İşçi puantaj, hak ediş, avans ve kasa yönetimini dijitalleştiren otonom ve yerel (offline) çalışan, harici API'lere ihtiyaç duymayan kurumsal masaüstü uygulaması.
 *   **🚑 [Medipro Nihon Kohden AED-Site](https://github.com/emirtdede/Medipro-NihonKohden-AED-Site)**: Türkiye distribütörü Medipro için geliştirilen, Nihon Kohden Cardiolife AED-3100 tanıtım sitesi, içerik yönetim sistemi (CMS) ve gelişmiş ziyaretçi analiz panelini barındıran full-stack web uygulaması.
 *   **🛍️ [Perde Dünyası](https://github.com/emirtdede/Perde-Dunyasi)**: Perde ve jaluzi mağazası için geliştirilen, güvenli yönetim paneli (CMS) ve ürün vitrinlerine sahip, modern ve yüksek performanslı e-ticaret platformu.
 *   **🤖 [ML Pipeline for Text Classification](https://github.com/emirtdede/ML-Pipeline-TextClassification)**: Python'da TF-IDF ve Scikit-Learn Grid Search CV kullanarak metin sınıflandırma modellerini eğiten, ayarlayan ve test eden makine öğrenmesi boru hattı.
