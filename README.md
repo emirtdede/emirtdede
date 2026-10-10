@@ -54,12 +54,13 @@ Rather than producing disconnected tools for fleeting trends, we engineer softwa
 
 ---
 
-### ⚡ Product Ecosystem
+### ⚡ Featured Products & Solutions
 
-* 🌐 **[Operis](https://vellium.dev):** Autonomous operations, workflow synthesis, and enterprise-grade execution intelligence.
-* 🧠 **[Continuum](https://vellium.dev):** Knowledge memory, deep context retention, and interconnected research infrastructure.
-* 📦 **[Tecton](https://vellium.dev):** Offline-first autonomous workforce, ledger, and progress billing management engine.
-* 🔗 **[Suppleo & Velox](https://vellium.dev):** High-speed microservice pipelines and resilient multi-point resource coordination.
+* 🌐 **[Operis](https://vellium.dev):** Autonomous enterprise operations, workflow synthesis, and process management platform.
+* 📦 **[Tecton](https://vellium.dev):** Offline-first corporate desktop system for construction site ledger, progress billing, and workforce tracking.
+* 🧠 **[Lineum](https://vellium.dev):** Enterprise memory, organizational knowledge retention, and decision lineage platform.
+* 🌷 **[Lale Perde](https://vellium.dev):** Modern corporate website, measurement calculator, and catalog management platform for bespoke luxury curtains.
+* 🏥 **[Cebeci Medikal](https://vellium.dev):** Corporate web platform for medical device sales, biomedical calibration, and technical service tracking.
 
 ---
 
@@ -93,12 +94,13 @@ Faaliyet alanımız, geçici eğilimler doğrultusunda birbirinden kopuk projele
 
 ---
 
-### ⚡ Ürün ve Teknoloji Ekosistemi
+### ⚡ Öne Çıkan Ürün ve Çözümler
 
-* 🌐 **[Operis](https://vellium.dev):** Yeni nesil otonom operasyon, iş akışı ve kurumsal süreç yönetim platformu.
-* 🧠 **[Continuum](https://vellium.dev):** Bilgi ve çalışma hafızası, derin bağlam koruma ve araştırma altyapısı.
-* 📦 **[Tecton](https://vellium.dev):** Çevrimdışı öncelikli (offline-first) kurumsal iş gücü, hak ediş ve kasa yönetim sistemi.
-* 🔗 **[Suppleo & Velox](https://vellium.dev):** Yüksek hızlı mikroservis omurgaları ve çok noktalı kaynak koordinasyon motorları.
+* 🌐 **[Operis](https://vellium.dev):** Otonom kurumsal operasyon, iş akışı sentezi ve süreç yönetim platformu.
+* 📦 **[Tecton](https://vellium.dev):** Şantiye puantaj, hak ediş ve kasa yönetimini dijitalleştiren çevrimdışı öncelikli kurumsal masaüstü sistemi.
+* 🧠 **[Lineum](https://vellium.dev):** Kurumsal hafıza, karar soyağacı ve organizasyonel bilgi yönetimi platformu.
+* 🌷 **[Lale Perde](https://vellium.dev):** Özel dikim perde ve ev tekstili için geliştirilen akıllı ölçü hesaplamalı kurumsal web sitesi ve katalog platformu.
+* 🏥 **[Cebeci Medikal](https://vellium.dev):** Tıbbi cihaz satış, biyomedikal kalibrasyon ve teknik servis süreçlerini yöneten kurumsal web platformu.
 
 ---
 
