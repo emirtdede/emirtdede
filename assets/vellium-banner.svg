@@ -1,0 +1,263 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500">
+  <defs>
+    <!-- Authentic Vellium Aesthetic Sweep Animation (Pure Black & White) -->
+    <linearGradient id="sweep-gradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#181818">
+        <animate attributeName="offset" values="-1; 1; -1" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="10%" stop-color="#FFFFFF">
+        <animate attributeName="offset" values="-0.5; 1.5; -0.5" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="20%" stop-color="#181818">
+        <animate attributeName="offset" values="0; 2; 0" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Subtle White Shimmer for Center Divider -->
+    <linearGradient id="divider-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="clipBanner">
+      <rect width="1500" height="500" rx="14"/>
+    </clipPath>
+
+    <style>
+      /* Smooth Floating Oscillations for Vertical Caliper Indicators */
+      @keyframes floatCaliperLeft1 {
+        0%, 100% {
+          transform: translateY(-16px);
+          opacity: 0.65;
+        }
+        50% {
+          transform: translateY(16px);
+          opacity: 1;
+        }
+      }
+      @keyframes floatCaliperLeft2 {
+        0%, 100% {
+          transform: translateY(14px);
+          opacity: 0.50;
+        }
+        50% {
+          transform: translateY(-14px);
+          opacity: 0.90;
+        }
+      }
+      @keyframes floatCaliperRight1 {
+        0%, 100% {
+          transform: translateY(14px);
+          opacity: 0.50;
+        }
+        50% {
+          transform: translateY(-14px);
+          opacity: 0.90;
+        }
+      }
+      @keyframes floatCaliperRight2 {
+        0%, 100% {
+          transform: translateY(-16px);
+          opacity: 0.65;
+        }
+        50% {
+          transform: translateY(16px);
+          opacity: 1;
+        }
+      }
+
+      /* Sliding Node Cursor along the Vertical Axis */
+      @keyframes slideNode1 {
+        0%, 100% {
+          transform: translateY(0px);
+        }
+        50% {
+          transform: translateY(40px);
+        }
+      }
+      @keyframes slideNode2 {
+        0%, 100% {
+          transform: translateY(0px);
+        }
+        50% {
+          transform: translateY(-35px);
+        }
+      }
+
+      /* Gentle Undulation for Precision Wave Lines */
+      @keyframes waveBreatheLeft {
+        0%, 100% {
+          transform: translateY(0px) scaleY(1);
+          opacity: 0.40;
+        }
+        50% {
+          transform: translateY(-4px) scaleY(1.03);
+          opacity: 0.75;
+        }
+      }
+      @keyframes waveBreatheRight {
+        0%, 100% {
+          transform: translateY(0px) scaleY(1);
+          opacity: 0.40;
+        }
+        50% {
+          transform: translateY(4px) scaleY(1.03);
+          opacity: 0.75;
+        }
+      }
+
+      /* Glowing Beacon Pulses */
+      @keyframes dotPulse {
+        0%, 100% {
+          transform: scale(0.9);
+          opacity: 0.7;
+        }
+        50% {
+          transform: scale(1.3);
+          opacity: 1;
+        }
+      }
+
+      .caliper-group-l1 {
+        animation: floatCaliperLeft1 4.5s ease-in-out infinite;
+      }
+      .caliper-group-l2 {
+        animation: floatCaliperLeft2 3.8s ease-in-out infinite;
+      }
+      .caliper-group-r1 {
+        animation: floatCaliperRight1 3.8s ease-in-out infinite;
+      }
+      .caliper-group-r2 {
+        animation: floatCaliperRight2 4.5s ease-in-out infinite;
+      }
+
+      .slide-node-l2 {
+        animation: slideNode1 3.2s ease-in-out infinite;
+      }
+      .slide-node-r1 {
+        animation: slideNode2 3.2s ease-in-out infinite;
+      }
+
+      .waves-left {
+        animation: waveBreatheLeft 6.5s ease-in-out infinite;
+      }
+      .waves-right {
+        animation: waveBreatheRight 6.5s ease-in-out infinite;
+      }
+
+      .pulsing-beacon {
+        animation: dotPulse 2.2s ease-in-out infinite;
+        transform-box: fill-box;
+        transform-origin: center;
+      }
+    </style>
+  </defs>
+
+  <!-- Pure Black Background -->
+  <rect width="1500" height="500" rx="14" fill="#000000"/>
+  <!-- Minimalist Clean Dark Border -->
+  <rect width="1498" height="498" x="1" y="1" rx="13" fill="none" stroke="#222222" stroke-width="1"/>
+
+  <g clip-path="url(#clipBanner)">
+    <!-- LEFT SYSTEM -->
+    <g transform="matrix(0.9920634921 0 0 0.9920634921 0 122.031746)">
+      <!-- Left Precision Wave Curves -->
+      <g class="waves-left" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M-28 121 C82 104, 141 139, 205 171 C270 204, 334 213, 408 197 C454 187, 489 171, 523 154" stroke-width="1.1" opacity="0.45"/>
+        <path d="M-32 127 C79 109, 140 143, 204 175 C269 207, 335 217, 409 201 C456 191, 492 174, 526 157" stroke-width="0.8" opacity="0.30"/>
+        <path d="M-35 133 C76 115, 138 147, 203 179 C269 211, 337 221, 411 205 C459 195, 495 178, 530 160" stroke-width="0.75" opacity="0.22"/>
+        <path d="M-38 139 C73 121, 136 151, 202 183 C269 215, 338 225, 414 209 C462 199, 499 181, 534 163" stroke-width="0.7" opacity="0.16"/>
+        <path d="M-42 145 C71 127, 134 155, 202 187 C270 219, 341 229, 417 213 C466 203, 503 185, 538 166" stroke-width="0.7" opacity="0.12"/>
+        <path d="M-46 151 C68 133, 132 159, 201 191 C270 223, 343 233, 420 217 C469 207, 507 189, 542 169" stroke-width="0.65" opacity="0.09"/>
+        <path d="M-18 92 C68 78, 128 90, 177 119 C205 136, 227 157, 246 180" stroke-width="0.85" opacity="0.22"/>
+      </g>
+
+      <!-- Animated Vertical Caliper Line 1 (x = 114) -->
+      <g class="caliper-group-l1">
+        <line x1="114" y1="67" x2="114" y2="187" stroke="#FFFFFF" stroke-width="1.1" opacity="0.75"/>
+        <line x1="108" y1="67" x2="120" y2="67" stroke="#FFFFFF" stroke-width="1.0" opacity="0.75"/>
+        <line x1="108" y1="187" x2="120" y2="187" stroke="#FFFFFF" stroke-width="1.0" opacity="0.75"/>
+        <line x1="110" y1="127" x2="118" y2="127" stroke="#FFFFFF" stroke-width="0.8" opacity="0.50"/>
+        <circle class="pulsing-beacon" cx="114" cy="67" r="2.8" fill="#FFFFFF"/>
+        <circle class="pulsing-beacon" cx="114" cy="187" r="2.8" fill="#FFFFFF"/>
+      </g>
+
+      <!-- Animated Vertical Caliper Line 2 (x = 176) -->
+      <g class="caliper-group-l2">
+        <line x1="176" y1="104" x2="176" y2="198" stroke="#FFFFFF" stroke-width="0.9" opacity="0.45"/>
+        <g class="slide-node-l2">
+          <circle cx="176" cy="145" r="3.2" fill="#FFFFFF" opacity="0.9"/>
+          <circle cx="176" cy="145" r="6.0" fill="none" stroke="#FFFFFF" stroke-width="0.8" opacity="0.35"/>
+        </g>
+      </g>
+    </g>
+
+    <!-- RIGHT SYSTEM -->
+    <g transform="matrix(0.9920634921 0 0 0.9920634921 0 122.031746)">
+      <!-- Right Precision Wave Curves -->
+      <g class="waves-right" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M989 154 C1023 171, 1058 187, 1104 197 C1178 213, 1242 204, 1307 171 C1371 139, 1430 104, 1540 121" stroke-width="1.1" opacity="0.45"/>
+        <path d="M986 157 C1020 174, 1056 191, 1103 201 C1177 217, 1243 207, 1308 175 C1372 143, 1433 109, 1544 127" stroke-width="0.8" opacity="0.30"/>
+        <path d="M982 160 C1017 178, 1053 195, 1101 205 C1175 221, 1243 211, 1309 179 C1374 147, 1436 115, 1547 133" stroke-width="0.75" opacity="0.22"/>
+        <path d="M978 163 C1013 181, 1050 199, 1098 209 C1174 225, 1243 215, 1310 183 C1376 151, 1439 121, 1550 139" stroke-width="0.7" opacity="0.16"/>
+        <path d="M974 166 C1009 185, 1046 203, 1095 213 C1171 229, 1242 219, 1310 187 C1378 155, 1441 127, 1554 145" stroke-width="0.7" opacity="0.12"/>
+        <path d="M970 169 C1005 189, 1043 207, 1092 217 C1169 233, 1242 223, 1311 191 C1380 159, 1444 133, 1558 151" stroke-width="0.65" opacity="0.09"/>
+        <path d="M1266 180 C1285 157, 1307 136, 1335 119 C1384 90, 1444 78, 1530 92" stroke-width="0.85" opacity="0.22"/>
+      </g>
+
+      <!-- Animated Vertical Caliper Line 3 (x = 1336) -->
+      <g class="caliper-group-r1">
+        <line x1="1336" y1="104" x2="1336" y2="198" stroke="#FFFFFF" stroke-width="0.9" opacity="0.45"/>
+        <g class="slide-node-r1">
+          <circle cx="1336" cy="155" r="3.2" fill="#FFFFFF" opacity="0.9"/>
+          <circle cx="1336" cy="155" r="6.0" fill="none" stroke="#FFFFFF" stroke-width="0.8" opacity="0.35"/>
+        </g>
+      </g>
+
+      <!-- Animated Vertical Caliper Line 4 (x = 1398) -->
+      <g class="caliper-group-r2">
+        <line x1="1398" y1="67" x2="1398" y2="187" stroke="#FFFFFF" stroke-width="1.1" opacity="0.75"/>
+        <line x1="1392" y1="67" x2="1404" y2="67" stroke="#FFFFFF" stroke-width="1.0" opacity="0.75"/>
+        <line x1="1392" y1="187" x2="1404" y2="187" stroke="#FFFFFF" stroke-width="1.0" opacity="0.75"/>
+        <line x1="1394" y1="127" x2="1402" y2="127" stroke="#FFFFFF" stroke-width="0.8" opacity="0.50"/>
+        <circle class="pulsing-beacon" cx="1398" cy="67" r="2.8" fill="#FFFFFF"/>
+        <circle class="pulsing-beacon" cx="1398" cy="187" r="2.8" fill="#FFFFFF"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- VELLIUM LOGO — Centered with Authentic Aesthetic Sweep Gradient -->
+  <!-- Centered at X=750, Y=160. Scaled to 220x176 -->
+  <g transform="translate(640, 72) scale(0.215)">
+    <g transform="translate(0.000000, 1024.000000) scale(0.100000, -0.100000)">
+      <path fill="url(#sweep-gradient)"
+            stroke="none"
+            d="M53 8745 c-34 -24 -29 -64 12 -112 52 -61 101 -80 235 -93 410 -38 673 -149 923 -389 161 -155 293 -332 442 -591 106 -186 1284 -2552 2777 -5580 621 -1260 655 -1327 674 -1334 22 -8 47 38 236 422 773 1576 1151 2344 1548 3147 117 237 259 525 315 640 350 715 1261 2549 1313 2643 256 465 528 758 836 903 161 75 298 110 530 135 175 19 214 32 266 91 46 53 53 93 18 117 -27 19 -189 21 -718 6 -626 -18 -768 -30 -1008 -86 -260 -61 -467 -156 -682 -313 -97 -71 -300 -274 -374 -374 -147 -198 -178 -257 -674 -1272 -115 -236 -373 -761 -572 -1165 -200 -404 -504 -1023 -676 -1375 -369 -754 -336 -690 -354 -690 -8 0 -67 106 -141 255 -185 368 -886 1784 -1431 2890 -469 952 -541 1092 -626 1225 -287 449 -705 733 -1233 839 -228 46 -487 61 -1203 72 -373 5 -413 5 -433 -11z m1717 -370 c184 -30 402 -121 560 -234 171 -121 350 -325 463 -527 55 -99 606 -1204 1367 -2744 608 -1230 930 -1873 946 -1890 12 -13 16 -13 28 0 13 13 278 547 751 1515 62 127 240 487 395 800 155 314 331 669 390 790 355 726 736 1487 780 1560 166 275 368 471 615 597 207 105 451 166 553 139 76 -21 66 -62 -72 -288 -85 -140 -211 -382 -396 -758 -92 -187 -353 -713 -580 -1170 -792 -1595 -1317 -2664 -1742 -3550 -399 -830 -687 -1410 -702 -1413 -20 -4 -297 544 -701 1388 -430 899 -2542 5154 -2657 5355 -26 44 -80 137 -121 208 -86 146 -94 169 -73 202 24 37 64 41 196 20z"/>
+    </g>
+  </g>
+
+  <!-- Typography Hierarchy (Pure Minimalist Luxury) -->
+  <!-- 1. Corporate Brand Wordmark -->
+  <text x="750" y="300"
+        text-anchor="middle"
+        dominant-baseline="central"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="42"
+        font-weight="600"
+        letter-spacing="0.38em"
+        fill="#FFFFFF">VELLIUM</text>
+
+  <!-- 2. Clean Silver Divider -->
+  <line x1="640" y1="340" x2="860" y2="340" stroke="url(#divider-grad)" stroke-width="1"/>
+
+  <!-- 3. Official Brand Motto -->
+  <text x="750" y="378"
+        text-anchor="middle"
+        dominant-baseline="central"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="17"
+        font-weight="400"
+        letter-spacing="0.24em"
+        fill="#E5E5E5">INTELLIGENT &#183; RELIABLE &#183; ENDURING</text>
+</svg>
