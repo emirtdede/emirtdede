@@ -69,83 +69,38 @@
 
       /* Sliding Node Cursor along the Vertical Axis */
       @keyframes slideNode1 {
-        0%, 100% {
-          transform: translateY(0px);
-        }
-        50% {
-          transform: translateY(40px);
-        }
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(40px); }
       }
       @keyframes slideNode2 {
-        0%, 100% {
-          transform: translateY(0px);
-        }
-        50% {
-          transform: translateY(-35px);
-        }
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-35px); }
       }
 
-      /* Gentle Undulation for Precision Wave Lines */
-      @keyframes waveBreatheLeft {
-        0%, 100% {
-          transform: translateY(0px) scaleY(1);
-          opacity: 0.40;
-        }
-        50% {
-          transform: translateY(-4px) scaleY(1.03);
-          opacity: 0.75;
-        }
+      /* Gentle Horizontal Flow — preserves original wave shape & height exactly */
+      @keyframes waveFlowLeft {
+        0%, 100% { transform: translateX(0px); }
+        50% { transform: translateX(12px); }
       }
-      @keyframes waveBreatheRight {
-        0%, 100% {
-          transform: translateY(0px) scaleY(1);
-          opacity: 0.40;
-        }
-        50% {
-          transform: translateY(4px) scaleY(1.03);
-          opacity: 0.75;
-        }
+      @keyframes waveFlowRight {
+        0%, 100% { transform: translateX(0px); }
+        50% { transform: translateX(-12px); }
       }
 
       /* Glowing Beacon Pulses */
       @keyframes dotPulse {
-        0%, 100% {
-          transform: scale(0.9);
-          opacity: 0.7;
-        }
-        50% {
-          transform: scale(1.3);
-          opacity: 1;
-        }
+        0%, 100% { transform: scale(0.9); opacity: 0.7; }
+        50% { transform: scale(1.3); opacity: 1; }
       }
 
-      .caliper-group-l1 {
-        animation: floatCaliperLeft1 4.5s ease-in-out infinite;
-      }
-      .caliper-group-l2 {
-        animation: floatCaliperLeft2 3.8s ease-in-out infinite;
-      }
-      .caliper-group-r1 {
-        animation: floatCaliperRight1 3.8s ease-in-out infinite;
-      }
-      .caliper-group-r2 {
-        animation: floatCaliperRight2 4.5s ease-in-out infinite;
-      }
-
-      .slide-node-l2 {
-        animation: slideNode1 3.2s ease-in-out infinite;
-      }
-      .slide-node-r1 {
-        animation: slideNode2 3.2s ease-in-out infinite;
-      }
-
-      .waves-left {
-        animation: waveBreatheLeft 6.5s ease-in-out infinite;
-      }
-      .waves-right {
-        animation: waveBreatheRight 6.5s ease-in-out infinite;
-      }
-
+      .caliper-group-l1 { animation: floatCaliperLeft1 4.5s ease-in-out infinite; }
+      .caliper-group-l2 { animation: floatCaliperLeft2 3.8s ease-in-out infinite; }
+      .caliper-group-r1 { animation: floatCaliperRight1 3.8s ease-in-out infinite; }
+      .caliper-group-r2 { animation: floatCaliperRight2 4.5s ease-in-out infinite; }
+      .slide-node-l2 { animation: slideNode1 3.2s ease-in-out infinite; }
+      .slide-node-r1 { animation: slideNode2 3.2s ease-in-out infinite; }
+      .waves-left { animation: waveFlowLeft 5s ease-in-out infinite; }
+      .waves-right { animation: waveFlowRight 5s ease-in-out infinite; }
       .pulsing-beacon {
         animation: dotPulse 2.2s ease-in-out infinite;
         transform-box: fill-box;
@@ -162,7 +117,7 @@
   <g clip-path="url(#clipBanner)">
     <!-- LEFT SYSTEM -->
     <g transform="matrix(0.9920634921 0 0 0.9920634921 0 122.031746)">
-      <!-- Left Precision Wave Curves -->
+      <!-- Left Wave Curves — ORIGINAL paths & opacities preserved exactly from x_header_dark -->
       <g class="waves-left" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
         <path d="M-28 121 C82 104, 141 139, 205 171 C270 204, 334 213, 408 197 C454 187, 489 171, 523 154" stroke-width="1.1" opacity="0.45"/>
         <path d="M-32 127 C79 109, 140 143, 204 175 C269 207, 335 217, 409 201 C456 191, 492 174, 526 157" stroke-width="0.8" opacity="0.30"/>
@@ -195,7 +150,7 @@
 
     <!-- RIGHT SYSTEM -->
     <g transform="matrix(0.9920634921 0 0 0.9920634921 0 122.031746)">
-      <!-- Right Precision Wave Curves -->
+      <!-- Right Wave Curves — ORIGINAL paths & opacities preserved exactly from x_header_dark -->
       <g class="waves-right" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
         <path d="M989 154 C1023 171, 1058 187, 1104 197 C1178 213, 1242 204, 1307 171 C1371 139, 1430 104, 1540 121" stroke-width="1.1" opacity="0.45"/>
         <path d="M986 157 C1020 174, 1056 191, 1103 201 C1177 217, 1243 207, 1308 175 C1372 143, 1433 109, 1544 127" stroke-width="0.8" opacity="0.30"/>
@@ -228,7 +183,6 @@
   </g>
 
   <!-- VELLIUM LOGO — Centered with Authentic Aesthetic Sweep Gradient -->
-  <!-- Centered at X=750, Y=160. Scaled to 220x176 -->
   <g transform="translate(640, 72) scale(0.215)">
     <g transform="translate(0.000000, 1024.000000) scale(0.100000, -0.100000)">
       <path fill="url(#sweep-gradient)"
@@ -238,7 +192,6 @@
   </g>
 
   <!-- Typography Hierarchy (Pure Minimalist Luxury) -->
-  <!-- 1. Corporate Brand Wordmark -->
   <text x="750" y="300"
         text-anchor="middle"
         dominant-baseline="central"
@@ -248,10 +201,10 @@
         letter-spacing="0.38em"
         fill="#FFFFFF">VELLIUM</text>
 
-  <!-- 2. Clean Silver Divider -->
+  <!-- Clean Silver Divider -->
   <line x1="640" y1="340" x2="860" y2="340" stroke="url(#divider-grad)" stroke-width="1"/>
 
-  <!-- 3. Official Brand Motto -->
+  <!-- Official Brand Motto -->
   <text x="750" y="378"
         text-anchor="middle"
         dominant-baseline="central"
