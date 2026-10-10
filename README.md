@@ -29,7 +29,7 @@
 ## 🌐 English Overview
 
 ### About Vellium
-**Vellium** is an independent software studio developing AI-assisted productivity, workflow, and knowledge management systems. We design digital tools that make daily work for individuals and organizations more organized, sustainable, and manageable. 
+**Vellium** is an independent technology company developing AI-assisted productivity, workflow, and knowledge management systems. We design digital tools that make daily work for individuals and organizations more organized, sustainable, and manageable. 
 
 Rather than producing disconnected tools for fleeting trends, we engineer software systems with their own product identity, controlled dependencies, and sustainable evolutionary roadmaps.
 
