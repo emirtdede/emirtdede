@@ -26,7 +26,7 @@
 
 ---
 
-## 🏛️ English Overview
+## 🌐 English Overview
 
 ### About Vellium
 **Vellium** is an independent software studio developing AI-assisted productivity, workflow, and knowledge management systems. We design digital tools that make daily work for individuals and organizations more organized, sustainable, and manageable. 
@@ -66,7 +66,7 @@ Rather than producing disconnected tools for fleeting trends, we engineer softwa
 
 <br />
 
-## 🇹🇷 Türkçe Tanıtım
+## 🌐 Türkçe Tanıtım
 
 ### Vellium Hakkında
 **Vellium**, yapay zekâ destekli üretkenlik, iş akışı ve bilgi yönetimi ürünleri geliştiren bağımsız bir yazılım şirketidir. İnsanların ve kurumların günlük çalışmalarını daha düzenli, sürdürülebilir ve yönetilebilir hâle getiren dijital sistemler tasarlıyoruz.
