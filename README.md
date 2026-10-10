@@ -5,19 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="https://vellium.dev"><img src="https://img.shields.io/badge/WEBSITE-vellium.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Vellium Website" /></a>
-  <a href="https://github.com/VelliumHQ"><img src="https://img.shields.io/badge/ORGANIZATION-VelliumHQ-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization" /></a>
-  <a href="https://www.producthunt.com/@vellium"><img src="https://img.shields.io/badge/PRODUCT_HUNT-Vellium-000000?style=for-the-badge&logo=product-hunt&logoColor=white" alt="Product Hunt" /></a>
-  <a href="https://www.linkedin.com/company/vellium/"><img src="https://img.shields.io/badge/LINKEDIN-Vellium-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/VelliumDev"><img src="https://img.shields.io/badge/X-@VelliumDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://vellium.dev"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/VelliumHQ"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.producthunt.com/@vellium"><img src="https://img.shields.io/badge/Product_Hunt-000000?style=flat-square&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
+  <a href="https://www.linkedin.com/company/vellium/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/VelliumDev"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.reddit.com/user/VelliumDev/"><img src="https://img.shields.io/badge/REDDIT-u%2FVelliumDev-000000?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://www.threads.com/@velliumdev"><img src="https://img.shields.io/badge/THREADS-@velliumdev-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
-  <a href="https://www.instagram.com/velliumdev/"><img src="https://img.shields.io/badge/INSTAGRAM-@velliumdev-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="http://gravatar.com/velliumdev"><img src="https://img.shields.io/badge/GRAVATAR-velliumdev-000000?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar" /></a>
-  <a href="mailto:contact@vellium.dev"><img src="https://img.shields.io/badge/CONTACT-contact@vellium.dev-000000?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" /></a>
+  <a href="https://www.reddit.com/user/VelliumDev/"><img src="https://img.shields.io/badge/Reddit-000000?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://www.threads.com/@velliumdev"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" /></a>
+  <a href="https://www.instagram.com/velliumdev/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="http://gravatar.com/velliumdev"><img src="https://img.shields.io/badge/Gravatar-000000?style=flat-square&logo=gravatar&logoColor=white" alt="Gravatar" /></a>
+  <a href="mailto:contact@vellium.dev"><img src="https://img.shields.io/badge/Contact-000000?style=flat-square&logo=gmail&logoColor=white" alt="Contact" /></a>
 </p>
 
 <p align="center">
